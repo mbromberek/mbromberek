@@ -1,7 +1,7 @@
 Hi, I am Mike Bromberek
 - I am interested in running and programming in Python
 - 🌱 I am currently building a website to store my workouts in
-- You can see my personal website at https://www.mikebromberek.com
+
 
 <!---
 - 📫 You can How to reach me at 
