@@ -1,6 +1,7 @@
 Hi, I am Mike Bromberek
 - I am interested in running and programming in Python
-- 🌱 I am currently building a website to store my workouts in
+- I built a website to store my workouts in and can see graphs for my race results. 
+- 🌱 I am currently learning more about data science and analysis. 
 
 
 <!---
